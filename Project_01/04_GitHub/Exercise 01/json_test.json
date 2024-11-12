@@ -1,0 +1,35 @@
+{
+  "productionLine": {
+    "name": "EMSE IT'M FACTORY",
+    "inaugurationDate": "2018-09-24",
+    "description": "Simulated Industry 4.0 factory for packaging",
+    "workshops": [
+      {
+        "name": "Conveying Workshop",
+        "type": "VL10",
+
+        "function": "Conveys containers to the next workshop",
+        "operationgStates": ["running", "paused", "stopped", "error"]
+      },
+      {
+        "name": "Filling Worshop",
+        "type": "DX10",
+        "function": "Fills containers with product",
+        "operationgStates": ["running", "paused", "stopped", "error"]
+      },
+      {
+        "name": "Potting Workshop",
+        "type": "APAS",
+
+        "function": "Applies lids of seals on containers",
+        "operationgStates": ["running", "paused", "stopped", "error"]
+      },
+      {
+        "name": "Packaging Workshop",
+        "type": "XY10",
+        "function": "Packages containers for shipment",
+        "operationgStates": ["running", "paused", "stopped", "error"]
+      }
+    ]
+  }
+}

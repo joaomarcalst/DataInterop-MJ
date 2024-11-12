@@ -1,0 +1,229 @@
+Country Code,Country Full Name,Number of admin1 Regions
+AD,Andorra,7
+AE,United Arab Emirates,7
+AF,Afghanistan,34
+AG,Antigua and Barbuda,8
+AI,Anguilla,14
+AL,Albania,12
+AM,Armenia,11
+AO,Angola,18
+AR,Argentina,24
+AS,American Samoa,5
+AT,Austria,9
+AU,Australia,8
+AX,Åland Islands,3
+AZ,Azerbaijan,71
+BA,Bosnia and Herzegovina,3
+BB,Barbados,11
+BD,Bangladesh,8
+BE,Belgium,3
+BF,Burkina Faso,13
+BG,Bulgaria,28
+BH,Bahrain,4
+BI,Burundi,18
+BJ,Benin,12
+BM,Bermuda,11
+BN,Brunei Darussalam,4
+BO,"Bolivia, Plurinational State of",9
+BQ,"Bonaire, Sint Eustatius and Saba",3
+BR,Brazil,27
+BS,Bahamas,32
+BT,Bhutan,20
+BW,Botswana,16
+BY,Belarus,7
+BZ,Belize,6
+CA,Canada,13
+CD,"Congo, The Democratic Republic of the",26
+CF,Central African Republic,20
+CG,Congo,12
+CH,Switzerland,26
+CI,Côte d'Ivoire,14
+CK,Cook Islands,11
+CL,Chile,16
+CM,Cameroon,10
+CN,China,31
+CO,Colombia,33
+CR,Costa Rica,7
+CU,Cuba,16
+CV,Cabo Verde,22
+CY,Cyprus,6
+CZ,Czechia,14
+DE,Germany,16
+DJ,Djibouti,6
+DK,Denmark,5
+DM,Dominica,10
+DO,Dominican Republic,32
+DZ,Algeria,58
+EC,Ecuador,24
+EE,Estonia,15
+EG,Egypt,27
+ER,Eritrea,6
+ES,Spain,19
+ET,Ethiopia,14
+FI,Finland,18
+FJ,Fiji,5
+FM,"Micronesia, Federated States of",4
+FO,Faroe Islands,6
+FR,France,13
+GA,Gabon,9
+GB,United Kingdom,4
+GD,Grenada,7
+GE,Georgia,12
+GF,French Guiana,1
+GG,Guernsey,11
+GH,Ghana,16
+GL,Greenland,5
+GM,Gambia,6
+GN,Guinea,8
+GP,Guadeloupe,1
+GQ,Equatorial Guinea,8
+GR,Greece,14
+GT,Guatemala,22
+GU,Guam,19
+GW,Guinea-Bissau,9
+GY,Guyana,10
+HK,Hong Kong,18
+HN,Honduras,18
+HR,Croatia,21
+HT,Haiti,10
+HU,Hungary,20
+ID,Indonesia,38
+IE,Ireland,4
+IL,Israel,7
+IM,Isle of Man,24
+IN,India,36
+IQ,Iraq,19
+IR,"Iran, Islamic Republic of",31
+IS,Iceland,8
+IT,Italy,20
+JE,Jersey,12
+JM,Jamaica,14
+JO,Jordan,12
+JP,Japan,47
+KE,Kenya,47
+KG,Kyrgyzstan,9
+KH,Cambodia,25
+KI,Kiribati,3
+KM,Comoros,3
+KN,Saint Kitts and Nevis,14
+KP,"Korea, Democratic People's Republic of",13
+KR,"Korea, Republic of",17
+KW,Kuwait,6
+KY,Cayman Islands,6
+KZ,Kazakhstan,21
+LA,Lao People's Democratic Republic,18
+LB,Lebanon,8
+LC,Saint Lucia,10
+LI,Liechtenstein,11
+LK,Sri Lanka,9
+LR,Liberia,15
+LS,Lesotho,10
+LT,Lithuania,10
+LU,Luxembourg,12
+LV,Latvia,43
+LY,Libya,22
+MA,Morocco,12
+MC,Monaco,1
+MD,"Moldova, Republic of",37
+ME,Montenegro,25
+MG,Madagascar,23
+MH,Marshall Islands,33
+MK,North Macedonia,71
+ML,Mali,11
+MM,Myanmar,15
+MN,Mongolia,22
+MO,Macao,8
+MP,Northern Mariana Islands,4
+MQ,Martinique,1
+MR,Mauritania,15
+MS,Montserrat,3
+MT,Malta,68
+MU,Mauritius,12
+MV,Maldives,21
+MW,Malawi,3
+MX,Mexico,32
+MY,Malaysia,16
+MZ,Mozambique,11
+NA,Namibia,14
+NC,New Caledonia,3
+NE,Niger,8
+NG,Nigeria,37
+NI,Nicaragua,17
+NL,Netherlands,12
+NO,Norway,15
+NP,Nepal,7
+NR,Nauru,14
+NZ,New Zealand,17
+OM,Oman,11
+PA,Panama,14
+PE,Peru,26
+PF,French Polynesia,5
+PG,Papua New Guinea,22
+PH,Philippines,17
+PK,Pakistan,7
+PL,Poland,16
+PM,Saint Pierre and Miquelon,2
+PR,Puerto Rico,78
+PS,"Palestine, State of",2
+PT,Portugal,20
+PW,Palau,16
+PY,Paraguay,18
+QA,Qatar,8
+RE,Réunion,1
+RO,Romania,42
+RS,Serbia,2
+RU,Russian Federation,83
+RW,Rwanda,5
+SA,Saudi Arabia,13
+SB,Solomon Islands,10
+SC,Seychelles,28
+SD,Sudan,18
+SE,Sweden,21
+SH,"Saint Helena, Ascension and Tristan da Cunha",3
+SI,Slovenia,212
+SJ,Svalbard and Jan Mayen,2
+SK,Slovakia,8
+SL,Sierra Leone,5
+SM,San Marino,9
+SN,Senegal,14
+SO,Somalia,18
+SR,Suriname,10
+SS,South Sudan,10
+ST,Sao Tome and Principe,2
+SV,El Salvador,14
+SY,Syrian Arab Republic,14
+SZ,Eswatini,4
+TD,Chad,23
+TF,French Southern Territories,5
+TG,Togo,5
+TH,Thailand,77
+TJ,Tajikistan,5
+TK,Tokelau,3
+TL,Timor-Leste,13
+TM,Turkmenistan,6
+TN,Tunisia,24
+TO,Tonga,5
+TR,Türkiye,81
+TT,Trinidad and Tobago,15
+TV,Tuvalu,8
+TW,"Taiwan, Province of China",4
+TZ,"Tanzania, United Republic of",31
+UA,Ukraine,27
+UG,Uganda,4
+UM,United States Minor Outlying Islands,9
+US,United States,51
+UY,Uruguay,19
+UZ,Uzbekistan,14
+VC,Saint Vincent and the Grenadines,6
+VE,"Venezuela, Bolivarian Republic of",25
+VI,"Virgin Islands, U.S.",3
+VN,Viet Nam,63
+VU,Vanuatu,6
+WF,Wallis and Futuna,3
+WS,Samoa,11
+XK,unknown,7
+YE,Yemen,22
+YT,Mayotte,17
+ZA,South Africa,9
+ZM,Zambia,10
+ZW,Zimbabwe,10
